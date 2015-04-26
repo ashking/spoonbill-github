@@ -1,0 +1,27 @@
+body{
+    padding-top: 50px;
+}
+
+div.view{
+    margin-top: 50px;
+}
+
+div.portion{
+    width: 150px;
+    height: 300px;
+}
+
+div.gauge{
+    width: 50px;
+
+    margin: 0 auto;
+    bottom: 300px;
+    position: absolute;
+    background-color: #23527c;
+}
+
+div.dial{
+    width: 300px;
+    height: 200px;
+    float: left;
+}
